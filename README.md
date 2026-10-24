@@ -1,4 +1,4 @@
-# sample123
+# pages-html
 
-https://nobuoryoki.github.io/sample123/  
+https://nobuoryoki.github.io/pages-html/  
 でアクセスできる．
